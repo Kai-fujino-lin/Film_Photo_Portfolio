@@ -9,4 +9,4 @@ HTML also works so:
 
 <img src="./img011.jpeg"></img>
 
-and you can create a link for a [standalone page](photo_index.html)
+and you can create a link for a [standalone page](https://htmlpreview.github.io/?https://github.com/Kai-fujino-lin/Film_Photo_Portfolio/blob/ijonglin/make_link_in_readme/photo_index.html)
