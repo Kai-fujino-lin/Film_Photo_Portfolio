@@ -8,3 +8,5 @@ See [my picture](img011.jpeg) here.
 HTML also works so:
 
 <img src="./img011.jpeg"></img>
+
+and you can create a link for a [standalone page](photo_index.html)
