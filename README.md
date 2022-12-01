@@ -16,5 +16,5 @@ This is my portfolio for my local harbor where my stepfather works and where I l
 <img src="./img052.jpeg"></img>
 <img src="./img053.jpeg"></img>
 
-<!-- and you can create a link for a [standalone page](https://htmlpreview.github.io/?https://github.com/Kai-fujino-lin/Film_Photo_Portfolio/blob/ijonglin/make_link_in_readme/photo_index.html), if
-you make it public. -->
+ and you can create a link for a [standalone page](https://htmlpreview.github.io/?https://github.com/Kai-fujino-lin/Film_Photo_Portfolio/blob/ijonglin/make_link_in_readme/photo_index.html), if
+you make it public.
